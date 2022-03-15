@@ -3,17 +3,17 @@ branch Main
 Info1 Main
 Info2 MAin
 Info3 Main
-Info4 MAin
-Info5 Main
-Info6 MAin
-Info7 Main
-Info8 MAin
+Info4 WORKER2
+Info5 WORKER2
+Info6 WORKER2
+Info7 WORKER2
+Info8 WORKER2
 Info9 Main
 Info10 MAin
 
 
 
-Info11 Main
+Info11 WORKER2
 Info12 MAin
 Info13 Main
 Info14 MAin
