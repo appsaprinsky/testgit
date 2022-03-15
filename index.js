@@ -1,10 +1,10 @@
 branch Main
 
 Info1 Main
-Info2 MAin
-Info3 Main
-Info4 MAin
-Info5 Main
+Info2 WORKER1
+Info3 WORKER1
+Info4 WORKER1
+Info5 WORKER1
 Info6 MAin
 Info7 Main
 Info8 MAin
